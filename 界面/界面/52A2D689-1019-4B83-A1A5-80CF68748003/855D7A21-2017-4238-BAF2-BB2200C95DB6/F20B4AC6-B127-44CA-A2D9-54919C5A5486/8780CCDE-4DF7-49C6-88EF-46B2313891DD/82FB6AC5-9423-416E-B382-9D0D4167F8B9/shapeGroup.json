@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "82FB6AC5-9423-416E-B382-9D0D4167F8B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49.56597326789823,
+    "width": 50.45505364010216,
+    "x": 55.8866389596589,
+    "y": 0.4288939294503678
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5E055B86-D49F-4596-9350-5050DAAC4C5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE7EB315-5E58-4335-9875-0E2DBA59C7A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "61336C38-FAF3-47A1-BCBA-AE301EA44F2A"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB55A504-4EE4-4A4F-9285-4F6118E9E90E"
+    }
+  ],
+  "name": "Stroke 47",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490000000000001,
+          "green": 0.9450000000000001,
+          "red": 0.9450000000000001
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.85
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

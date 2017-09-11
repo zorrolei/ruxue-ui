@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "ADC4B215-E97B-4C03-AE13-97E8203AF7E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 245,
+    "width": 215,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C75F900-B4D0-418B-9282-132DC0DB755D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F76B4CB-FCD6-4494-9E31-5B9D30F1ECF4"
+    },
+    {
+      "class": "group",
+      "id": "83121481-5673-4716-94F4-BDA21497D8C6"
+    },
+    {
+      "class": "group",
+      "id": "3F2A7343-469A-4C58-959C-D1959086FA9F"
+    }
+  ],
+  "name": "LOGO文字路径",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

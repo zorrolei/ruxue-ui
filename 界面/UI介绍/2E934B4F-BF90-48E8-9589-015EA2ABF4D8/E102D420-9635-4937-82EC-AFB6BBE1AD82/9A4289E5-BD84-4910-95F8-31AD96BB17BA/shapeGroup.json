@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9A4289E5-BD84-4910-95F8-31AD96BB17BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 290,
+    "width": 138,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4CC1D875-E741-430E-A3D2-8C1B84063AB4"
+    },
+    {
+      "class": "shapePath",
+      "id": "A132BEDD-FE9A-43FD-9B30-9AAD3F581C9C"
+    },
+    {
+      "class": "shapePath",
+      "id": "11E8FFB1-70C2-4A47-AB8D-88D5380DFF79"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD516597-FA62-4D74-9EB4-390BE362066C"
+    },
+    {
+      "class": "shapePath",
+      "id": "566D23D8-69BA-4F69-8A19-FC5BF8916091"
+    },
+    {
+      "class": "shapePath",
+      "id": "D25B804C-E84C-458A-9FA6-B281460E6E17"
+    },
+    {
+      "class": "shapePath",
+      "id": "362289F6-237C-49E4-9BC4-F5128282FAA8"
+    }
+  ],
+  "name": "Apple-iPhone-5S",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9306707057823129,
+          "green": 0.9306707057823129,
+          "red": 0.9306707057823129
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
